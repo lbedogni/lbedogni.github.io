@@ -1,0 +1,243 @@
+---
+layout: page
+title: Thesis and Internships
+permalink: /thesis-and-internships/
+nav: true
+nav_order: 3
+horizontal: false
+---
+
+Here you can find a list of available Bachelor and Master thesis available, along with internships. There may be also novel projects available, so please check with me if you are interested in the topics I work on.
+
+General rules for taking an internship or thesis work with me
+
+I am always happy to work with Bachelor and Master students, and I am glad that you are considering one of the topic I propose. Undergoing a thesis work is a key step in your education, and it is a challenging yet rewarding experience. The following rules are meant to be a guideline so that both you and me can carry the project in an efficient manner.
+
+* <b><u>Take your time</u></b>: a good bachelor thesis requires around 3 months, while a Master thesis can take 6 months or even more. If you are interested in one or more topics, ask in advance, even if you have not finished your exams yet. Moreover, if you are interested in one of the topics listed in this pages, say it upfront.
+* <b><u>Be efficient with communication</u></b>: when reporting your work, one email per month is too few, one per day is too much. Be efficient in what you communicate and how you do so.
+* <b><u>I am not gdb (or similar)</u></b>: do not send me code saying “it does not work”. Explain what you have tried, on what circumstances you experience any problem. Be proactive, be clear.
+* <b><u>How to write</u></b>: we will use LaTeX, which may seem difficult at the beginning but you will benefit a lot from it at the later stages. A good tool to share the thesis work is Overleaf.
+* <b><u>The Internship/thesis is YOUR responsibility</u></b>: I will not remind you about deadlines, documents to fill, bureaucracy and alike. It is your responsibility to perform these tasks.
+
+<hr>
+<h1>IoT</h1>
+<table style='border:solid'>
+<tr>
+    <th>B.Sc./M.Sc.</th>
+    <th>Title</th>
+    <th>Abstract</th>
+    <th>Partners</th>
+    <th>Topics</th>
+</tr>
+<tr>
+    <td>Bachelor</td>
+    <td>WoT aggregator</td>
+    <td>Develop a library which enables the development of WoT controllers able to extend their description with single devices services</td>
+    <td>UNIBO</td>
+    <td>WoT, MQTT, CoAP</td>
+</tr>
+<tr>
+    <td>Master</td>
+    <td>Efficient ECG reconstruction at the EDGE</td>
+    <td>Develop a an efficient framework which reconstructs and classifies ECG of patients at the EDGE</td>
+    <td>UC Irvine</td>
+    <td>IoT, e-Health, Neural Networks</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>MQTT with multiple retention messages</td>
+    <td>Develop and test an MQTT broker which enables an extension of the protocol to allow multiple messages to be retained. For a Master thesis, also integrate traffic recognition.</td>
+    <td></td>
+    <td>IoT, MQTT</td>
+</tr>
+<tr>
+    <td>Bachelor</td>
+    <td>Extending the WoT with computation services</td>
+    <td>Leverage the WoT definition to extend it towards providing a standardized approach to computing service.</td>
+    <td>CNR</td>
+    <td>AI, WoT</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Joining Context Awareness and Privacy</td>
+    <td>Develop a system that makes it possible to evaluate the service quality and privacy issues of a system at design time. These translates into designing a system which abstracts the data needed for both the service to run and the privacy issue to appear, to be able to bridge the gap between the two worlds.</td>
+    <td></td>
+    <td>Context Awareness, IoT, Privacy</td>
+</tr>
+<tr>
+    <td>Bachelor</td>
+    <td>Local computation to prevent data leaks</td>
+    <td>Explore the trade-off between service quality and data privacy in ubiquitous systems, when part of the computation can be done locally.</td>
+    <td>UNIBO</td>
+    <td>IoT, Application Development, Privacy</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Simulator and Emulator system for IoT</td>
+    <td>Develop a novel system which makes it possible to realize mixed real and simulated testbeds, where each device can be real or simulated on the PC. There is the need to use docker containers to emulate real performance.</td>
+    <td></td>
+    <td>IoT, Application Development</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Development of an autonomous smart home Web of Things architecture</td>
+    <td>Leveraging artificial intelligence techniques and personal smart home hubs, design an architecture which makes it possible to deploy models which can automatically fulfil services requested by users.</td>
+    <td>CNR</td>
+    <td>IoT, WoT, Reinforcement Learning</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Design and development of a flexible anomaly detection framework for Industry 4.0</td>
+    <td>Anomaly detection is a wide used technique in Industry 4.0 to cover a multitude of services. Right now it is difficult to provide a flexible system which can be easily reconfigured. The objective of the thesis is to fill this gap.</td>
+    <td>DIGIBELT Srl</td>
+    <td>Industry 4.0, Application Development, AI</td>
+</tr>
+<tr>
+    <td>Bachelor</td>
+    <td>Performance analysis of TinyML</td>
+    <td>Analyze the performance of TinyML on different low-power microcontrollers</td>
+    <td></td>
+    <td>IoT, Performance Evaluation</td>
+</tr>
+</table>
+
+<hr>
+<h1>Activity Recognition</h1>
+<table style='border:solid'>
+<tr>
+    <th>B.Sc./M.Sc.</th>
+    <th>Title</th>
+    <th>Abstract</th>
+    <th>Partners</th>
+    <th>Topics</th>
+</tr>
+<tr>
+    <td>Bachelor</td>
+    <td>Texting and Driving Recognition</td>
+    <td>Identify whether users are texting and driving using the smartphone front camera</td>
+    <td>UNIBO</td>
+    <td>Activity recognition, Neural Networks</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Activity recognition with Continual Learning</td>
+    <td>Given a dataset of inertial data, perform activity recognition with personalization on the user, leveraging Continual Learning</td>
+    <td>UNIPI</td>
+    <td>Context Aware Computing, Activity Recognition, IoT</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Activity recognition with Few Shot Learning</td>
+    <td>Given a dataset of inertial data, perform activity recognition with personalization on the user, leveraging Few Shot Learning</td>
+    <td></td>
+    <td>Context Aware Computing, Activity Recognition, IoT</td>
+</tr>
+<tr>
+    <td>Bachelor</td>
+    <td>Identification of users from inertial sensors</td>
+    <td>Identify user based on how they walk, run, and in general perform activities. A complete dataset is already available</td>
+    <td></td>
+    <td>Application Development, IoT, Activity Recognition</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Survey on context awareness tasks and services</td>
+    <td>Survey thesis about the different tasks available in context aware systems. Tasks must be categorized based on data needed, precision, task objective</td>
+    <td></td>
+    <td>IoT, Context Awareness, AI</td>
+</tr>
+</table>
+
+<hr>
+<h1>Crowdsensing and Data Science</h1>
+<table style='border:solid'>
+<tr>
+    <th>B.Sc./M.Sc.</th>
+    <th>Title</th>
+    <th>Abstract</th>
+    <th>Partners</th>
+    <th>Topics</th>
+</tr>
+<tr>
+    <td>Bachelor</td>
+    <td>Alternative routes from GPS data</td>
+    <td>Leveraging open GPS datasets, the goal of this project is to determine whether there are multiple routes in a city which are used by drivers to reach a common point, depending on the time of the day, weather conditions and other parameters</td>
+    <td></td>
+    <td>Data Analysis, Openstreetmap</td>
+</tr>
+<tr>
+    <td>Bachelor</td>
+    <td>Determine the economical benefits of crowdsensing</td>
+    <td>Compute the costs to deploy and maintain an infrastructure to sense specific data. Then it is possible to determine what is the price someone is allowed to pay to users if the same data is obtained through crowdsensing. The system should leverage open data and real parameters</td>
+    <td>UNIBO</td>
+    <td>Crowdsensing, IoT</td>
+</tr>
+<tr>
+    <td>Master</td>
+    <td>Participatory Crowdsensing analysis</td>
+    <td>Through the use of available data, this work should assess whether user habits exists in participatory crowdsensing</td>
+    <td></td>
+    <td>Crowdsensing, Data Science</td>
+</tr>
+</table>
+
+<hr>
+<h1>Privacy</h1>
+<table style='border:solid'>
+<tr>
+    <th>B.Sc./M.Sc.</th>
+    <th>Title</th>
+    <th>Abstract</th>
+    <th>Partners</th>
+    <th>Topics</th>
+</tr>
+<tr>
+    <td>Bachelor</td>
+    <td>Evaluate different techniques to improve k-anonymity</td>
+    <td>Evaluate different techniques to improve the privacy resilience of datasets</td>
+    <td></td>
+    <td>K-anonymity, Privacy</td>
+</tr>
+<tr>
+    <td>Master</td>
+    <td>Leverage k-anonymity to divide data and improve privacy</td>
+    <td>Divide and anonymyze for k-anonimity. Identify clusters which are hard to separate with k-anonimity and separate them</td>
+    <td></td>
+    <td>K-anonymity, Privacy</td>
+</tr>
+<tr>
+    <td>Master</td>
+    <td>Identify and exploit common points in datasets</td>
+    <td>Develop a version of k-anonymity which balances the amount of information which is kept secret and stored locally on a device and the information which is instead shared publicly</td>
+    <td></td>
+    <td>K-anonymity, Privacy</td>
+</tr>
+<tr>
+    <td>Master</td>
+    <td>Privacy resilience of datasets based on few certainties</td>
+    <td>Assess the resilience of datasets against identification attacks, when certainties about the users are gathered through other sources</td>
+    <td>UNSW</td>
+    <td>Privacy, Graph Theory</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Joining Context Awareness and Privacy</td>
+    <td>Develop a system that makes it possible to evaluate the service quality and privacy issues of a system at design time. These translates into designing a system which abstracts the data needed for both the service to run and the privacy issue to appear, to be able to bridge the gap between the two worlds</td>
+    <td></td>
+    <td>Context Awareness, IoT, Privacy</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Local computation to prevent data leaks</td>
+    <td>Explore the trade-off between service quality and data privacy in ubiquitous systems, when part of the computation can be done locally</td>
+    <td>UNIBO</td>
+    <td>IoT, Application Development, Privacy</td>
+</tr>
+<tr>
+    <td>Master</td>
+    <td>Understanding how routine habits may uncover privacy issues</td>
+    <td>Starting from user datasets about routine habits, understand how patterns can highlight specific habits and understand possible issues with the privacy of users.</td>
+    <td>UC Irvine</td>
+    <td>Graph Theory, Privacy</td>
+</tr>
+</table>
