@@ -1,13 +1,21 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
 horizontal: false
 ---
+
+Luca Bedogni research work focuses on the efficient utilization of White Space spectrum, particularly regarding the TV White Space scenario. He also worked on MAC protocols for Vehicular Networks, in the IEEE 802.11p and IEEE 1609.4 protocols.
+He studies Machine-to-Machine communication over TV White Spaces, in the challenging indoor environments.
+
+In addition, he also work on the possible utilization of TV Gray Spaces, focusing on the underlay spectrum access paradigm in Cognitive Wireless Networks, in which secondary devices might transmit on the same frequencies actually used by the primary users, by granting them a sufficient protection.
+
+Further information about his research work can be found on:
+* [Google Scholar](http://scholar.google.com/citations?user=N0ocP0EAAAAJ&hl=it)
+* [Researchgate](http://www.researchgate.net/profile/Luca_Bedogni/?ev=hdr_xprf)
+* [Mendeley](http://www.mendeley.com/profiles/luca-bedogni)
 
 <!-- pages/projects.md -->
 <div class="projects">
