@@ -15,7 +15,6 @@ In addition, he also work on the possible utilization of TV Gray Spaces, focusin
 Further information about his research work can be found on:
 * [Google Scholar](http://scholar.google.com/citations?user=N0ocP0EAAAAJ&hl=it)
 * [Researchgate](http://www.researchgate.net/profile/Luca_Bedogni/?ev=hdr_xprf)
-* [Mendeley](http://www.mendeley.com/profiles/luca-bedogni)
 
 <!-- pages/projects.md -->
 <div class="projects">
