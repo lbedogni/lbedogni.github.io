@@ -3,7 +3,7 @@ layout: page
 title: Arrowhead
 permalink: /arrowhead
 description: The Arrowhead project aims at increasing the interoperability of services
-img: 
+img: assets/img/arrowhead.jpg
 importance: 3
 category: work
 ---
