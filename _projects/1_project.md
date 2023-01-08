@@ -3,7 +3,7 @@ layout: page
 title: Internet of Energy for Electric Mobility
 permalink: /internet-of-energy
 description: The Internet of Energy for Electric Mobility project aims at the definition and deployment of novel services for the electric mobility scenario.
-img: assets/img/ioe.jpg
+img: assets/img/ioe.png
 importance: 1
 category: work
 ---
