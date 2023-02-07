@@ -35,7 +35,7 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
 
 <!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
 
-<a href="#" id="open_preferences_center">Update cookies preferences</a>
+<!--<a href="#" id="open_preferences_center">Update cookies preferences</a>-->
 
 
 Luca Bedogni is Associate Professor at the University of Modena and Reggio Emilia, Italy.
