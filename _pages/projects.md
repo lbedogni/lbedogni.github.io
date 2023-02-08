@@ -5,6 +5,7 @@ permalink: /projects/
 nav: true
 nav_order: 2
 horizontal: false
+categories: [project,private-project-research]
 ---
 
 Luca Bedogni research work focuses on the efficient utilization of White Space spectrum, particularly regarding the TV White Space scenario. He also worked on MAC protocols for Vehicular Networks, in the IEEE 802.11p and IEEE 1609.4 protocols.

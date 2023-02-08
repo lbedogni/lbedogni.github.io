@@ -5,7 +5,7 @@ permalink: /aoi
 description: Automated Optical Inspection
 img:
 importance: 4
-category: fun
+category: private-project
 ---
 
 Automated optical inspection

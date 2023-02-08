@@ -5,7 +5,7 @@ permalink: activity-recognition
 description: Activity Recognition and Context Aware Computing
 img:
 importance: 8
-category: fun
+category: research
 ---
 
 Dott. Luca Bedogni works on mobile applications for next generation smartphone. In particular, he developes and study the context-awarness of smartphone, by using sensor such as the accelerometer and the gyroscope, along with the GPS. More details can be found in the following publications:

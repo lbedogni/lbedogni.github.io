@@ -5,7 +5,7 @@ permalink: /vehicular-networks
 description: MAC protocols for Vehicular Networks
 img:
 importance: 6
-category: fun
+category: research
 ---
 
 During the first period of his PhD studies, he worked on efficient techniques to develop MAC protocols and enhancements for the IEEE 802.11p family and for the IEEE 1609.4 protocol. He enhanced a MAC protocol, called DBA-MAC, to distribute broadcast messages in dense scenarios for Vehicular Networks. He then continued on the same topic, proposing a method to improve the reliability and QoS of the IEEE 802.11p protocol, targetting the multi-channel scenario described by the 1609.4 protocol. More details can be found in the following publications:

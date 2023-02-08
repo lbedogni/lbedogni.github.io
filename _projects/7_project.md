@@ -5,7 +5,7 @@ permalink: /iot
 description: IoT and M2M Communication
 img:
 importance: 7
-category: fun
+category: research
 ---
 
 The core of his PhD thesis targets the utilization of TV White Space spectrum for M2M communications in indoor scenarios. Particular applications examples for this technology are the smart grid paradigm, the internet of things (IoT), and home appliances such as video streaming over the house. He uses and develops strategies and methods for Cognitive Wireless Networks to build networks of cooperating devices that operate in this challenging yet powerful spectrum band. More details can be found in the following publications:
