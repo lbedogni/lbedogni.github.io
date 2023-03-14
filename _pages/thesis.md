@@ -146,6 +146,20 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td></td>
     <td>IoT, Context Awareness, AI</td>
 </tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Activity recognition using WiFi CSI</td>
+    <td>Develop a testbed to collect data about WiFi CSI and develop models to perform acivity recognition. The testbed should also have the possibility to reconfigure the transmitters and monitors.</td>
+    <td></td>
+    <td>IoT, Activity recognition, WiFi CSI</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Privacy assessment of WiFi CSI based activity recognition</td>
+    <td>Explore the privacy tradeoffs of device-free WiFi sensing, in terms of recognized people, activity performed, people re-identification.</td>
+    <td></td>
+    <td>IoT, Activity recognition, WiFi CSI, Privacy</td>
+</tr>
 </table>
 
 <hr>
