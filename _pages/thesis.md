@@ -154,6 +154,20 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>IoT, Activity recognition, WiFi CSI</td>
 </tr>
 <tr>
+    <td>Bachelor</td>
+    <td>Activity recognition using WiFi CSI</td>
+    <td>Implement a testbed on ESP32 for Wireless CSI activity-recognition. Test known techniques under different scenarios.</td>
+    <td></td>
+    <td>IoT, Activity recognition, WiFi CSI</td>
+</tr>
+<tr>
+    <td>Master</td>
+    <td>RL/DRL Activity recognition using WiFi CSI</td>
+    <td>Implement a Reinforcement Learning (RL) or Deep Reinforcement Learning (DRL) for activity-recognition using WiFi CSI to improve the accuracy of recognition.</td>
+    <td></td>
+    <td>IoT, Activity recognition, WiFi CSI</td>
+</tr>
+<tr>
     <td>Bachelor/Master</td>
     <td>Privacy assessment of WiFi CSI based activity recognition</td>
     <td>Explore the privacy tradeoffs of device-free WiFi sensing, in terms of recognized people, activity performed, people re-identification.</td>
