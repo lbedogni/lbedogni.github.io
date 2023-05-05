@@ -30,13 +30,6 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <th>Topics</th>
 </tr>
 <tr>
-    <td>Bachelor</td>
-    <td>WoT aggregator</td>
-    <td>Develop a library which enables the development of WoT controllers able to extend their description with single devices services</td>
-    <td>UNIBO</td>
-    <td>WoT, MQTT, CoAP</td>
-</tr>
-<tr>
     <td>Master</td>
     <td>Efficient ECG reconstruction at the EDGE</td>
     <td>Develop a an efficient framework which reconstructs and classifies ECG of patients at the EDGE</td>
@@ -51,13 +44,13 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>IoT, MQTT</td>
 </tr>
 <tr>
-    <td>Bachelor</td>
-    <td>Extending the WoT with computation services</td>
-    <td>Leverage the WoT definition to extend it towards providing a standardized approach to computing service.</td>
-    <td>CNR</td>
+    <td>Bachelor/Master</td>
+    <td>Fluid-AI services</td>
+    <td>Extending the WoT standard with computation services, leveraging the WoT definition to extend it towards providing a standardized approach to computing service.</td>
+    <td></td>
     <td>AI, WoT</td>
 </tr>
-<tr>
+<!--<tr>
     <td>Bachelor/Master</td>
     <td>Joining Context Awareness and Privacy</td>
     <td>Develop a system that makes it possible to evaluate the service quality and privacy issues of a system at design time. These translates into designing a system which abstracts the data needed for both the service to run and the privacy issue to appear, to be able to bridge the gap between the two worlds.</td>
@@ -91,7 +84,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>Anomaly detection is a wide used technique in Industry 4.0 to cover a multitude of services. Right now it is difficult to provide a flexible system which can be easily reconfigured. The objective of the thesis is to fill this gap.</td>
     <td>DIGIBELT Srl</td>
     <td>Industry 4.0, Application Development, AI</td>
-</tr>
+</tr>-->
 <tr>
     <td>Bachelor</td>
     <td>Performance analysis of TinyML</td>
@@ -126,13 +119,6 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>Context Aware Computing, Activity Recognition, IoT</td>
 </tr>
 <tr>
-    <td>Bachelor/Master</td>
-    <td>Activity recognition with Few Shot Learning</td>
-    <td>Given a dataset of inertial data, perform activity recognition with personalization on the user, leveraging Few Shot Learning</td>
-    <td></td>
-    <td>Context Aware Computing, Activity Recognition, IoT</td>
-</tr>
-<tr>
     <td>Bachelor</td>
     <td>Identification of users from inertial sensors</td>
     <td>Identify user based on how they walk, run, and in general perform activities. A complete dataset is already available</td>
@@ -154,11 +140,32 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>IoT, Activity recognition, WiFi CSI</td>
 </tr>
 <tr>
+    <td>Bachelor</td>
+    <td>Activity recognition using WiFi CSI</td>
+    <td>Implement a testbed on ESP32 for Wireless CSI activity-recognition. Test known techniques under different scenarios.</td>
+    <td></td>
+    <td>IoT, Activity recognition, WiFi CSI</td>
+</tr>
+<tr>
+    <td>Master</td>
+    <td>RL/DRL Activity recognition using WiFi CSI</td>
+    <td>Implement a Reinforcement Learning (RL) or Deep Reinforcement Learning (DRL) for activity-recognition using WiFi CSI to improve the accuracy of recognition.</td>
+    <td></td>
+    <td>IoT, Activity recognition, WiFi CSI</td>
+</tr>
+<tr>
     <td>Bachelor/Master</td>
     <td>Privacy assessment of WiFi CSI based activity recognition</td>
     <td>Explore the privacy tradeoffs of device-free WiFi sensing, in terms of recognized people, activity performed, people re-identification.</td>
     <td></td>
     <td>IoT, Activity recognition, WiFi CSI, Privacy</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Recognition of key daily activities for patients</td>
+    <td>Patient monitoring can be done with wearables, and this thesis focuses on the recognition of key activities in a day for patients witrh different pathologies.</td>
+    <td></td>
+    <td>IoT, Activity recognition, e-Health</td>
 </tr>
 </table>
 
@@ -226,7 +233,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td></td>
     <td>K-anonymity, Privacy</td>
 </tr>
-<tr>
+<!--<tr>
     <td>Master</td>
     <td>Privacy resilience of datasets based on few certainties</td>
     <td>Assess the resilience of datasets against identification attacks, when certainties about the users are gathered through other sources</td>
@@ -246,7 +253,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>Explore the trade-off between service quality and data privacy in ubiquitous systems, when part of the computation can be done locally</td>
     <td>UNIBO</td>
     <td>IoT, Application Development, Privacy</td>
-</tr>
+</tr>-->
 <tr>
     <td>Master</td>
     <td>Understanding how routine habits may uncover privacy issues</td>
