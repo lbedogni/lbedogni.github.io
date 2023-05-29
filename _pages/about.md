@@ -43,7 +43,7 @@ Luca Bedogni is Associate Professor at the University of Modena and Reggio Emili
 He received his Bachelor Degree and Master Degree (Summa Cum Laude) in Computer Science from the University of Bologna, Italy. His Master thesis developed a MAC Protocol for Vehicular Ad Hoc Networks (VANETs).
 In 2015, he received the PhD degree from the University of Bologna, with the additional title of “Doctor Europeaus”.
 
-In 2013, he was a visiting researcher at the RWTH Aachen university, working under the supervision of [https://www.inets.rwth-aachen.de/](Prof. Petri Mähönen). In 2017, he was a visiting scholar at the University of California, Irvine, working with [https://iasl.ics.uci.edu/](Prof. Marco Levorato).
+In 2013, he was a visiting researcher at the RWTH Aachen university, working under the supervision of [Prof. Petri Mähönen](https://www.inets.rwth-aachen.de/). In 2017, he was a visiting scholar at the University of California, Irvine, working with [Prof. Marco Levorato](https://iasl.ics.uci.edu/).
 
 He won the best paper award at MOBIWAC 2012 for his paper “DySCO: A DYnamic Spectrum and COntention Control Framework for Enhanced Broadcast Communication in Vehicular Networks”.
 
