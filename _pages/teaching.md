@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Here is a list of classes I taught at UNIBO and I am currently teaching at UNIMORE.
-nav: true
+nav: false
 nav_order: 6
 ---
 
