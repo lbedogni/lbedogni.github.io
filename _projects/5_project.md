@@ -8,4 +8,4 @@ importance: 5
 category: private-project
 ---
 
-Ceramic Tile Classification
+The objective of this project is to determine the output quality of a ceramic tile, depending on a series of input parameters related to the materials, the state of the production line and alike. What we employed is a data driven approach, with a first Exploratory Data Analysis phase which enabled us to determine the most influential parameters to be taken into account.
