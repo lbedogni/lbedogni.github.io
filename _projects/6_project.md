@@ -2,7 +2,7 @@
 layout: page
 title: Crowdsensing
 permalink: /crowdsensing
-description: Crowdsensing
+description: Crowdsensing systems research
 img:
 importance: 6
 category: research
