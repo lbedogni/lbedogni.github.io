@@ -20,6 +20,85 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 * <b><u>The Internship/thesis is YOUR responsibility</u></b>: I will not remind you about deadlines, documents to fill, bureaucracy and alike. It is your responsibility to perform these tasks.
 
 <hr>
+<h1>Internships with Industries</h1>
+<table style='border:solid'>
+<tr>
+    <th>B.Sc./M.Sc.</th>
+    <th>Title</th>
+    <th>Abstract</th>
+    <th>Partners</th>
+    <th>Topics</th>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Supply chain traceability with blockchain</td>
+    <td>The goal of this industry related internship is to develop a traceability system integrated with a Blockchain, to guarantee transparency to the end user. </td>
+    <td></td>
+    <td>IoT, Industry 4.0, Blockchain</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Machine based analysis on production data</td>
+    <td>This work focuses on data analysis for production processes, to analyze large quantities of data and to assess patterns within them.</td>
+    <td></td>
+    <td>IoT, Data Science</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Automatic generation of corrective actions in Industry 4.0</td>
+    <td>Through the analysis of sensor data and actions performed by operators, this work focuses on the automatic recognition of patterns which have to be translated into automated actions.</td>
+    <td></td>
+    <td>AI, WoT</td>
+</tr>
+<!--<tr>
+    <td>Bachelor/Master</td>
+    <td>Joining Context Awareness and Privacy</td>
+    <td>Develop a system that makes it possible to evaluate the service quality and privacy issues of a system at design time. These translates into designing a system which abstracts the data needed for both the service to run and the privacy issue to appear, to be able to bridge the gap between the two worlds.</td>
+    <td></td>
+    <td>Context Awareness, IoT, Privacy</td>
+</tr>
+<tr>
+    <td>Bachelor</td>
+    <td>Local computation to prevent data leaks</td>
+    <td>Explore the trade-off between service quality and data privacy in ubiquitous systems, when part of the computation can be done locally.</td>
+    <td>UNIBO</td>
+    <td>IoT, Application Development, Privacy</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Simulator and Emulator system for IoT</td>
+    <td>Develop a novel system which makes it possible to realize mixed real and simulated testbeds, where each device can be real or simulated on the PC. There is the need to use docker containers to emulate real performance.</td>
+    <td></td>
+    <td>IoT, Application Development</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Development of an autonomous smart home Web of Things architecture</td>
+    <td>Leveraging artificial intelligence techniques and personal smart home hubs, design an architecture which makes it possible to deploy models which can automatically fulfil services requested by users.</td>
+    <td>CNR</td>
+    <td>IoT, WoT, Reinforcement Learning</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Design and development of a flexible anomaly detection framework for Industry 4.0</td>
+    <td>Anomaly detection is a wide used technique in Industry 4.0 to cover a multitude of services. Right now it is difficult to provide a flexible system which can be easily reconfigured. The objective of the thesis is to fill this gap.</td>
+    <td>DIGIBELT Srl</td>
+    <td>Industry 4.0, Application Development, AI</td>
+</tr>-->
+<tr>
+    <td>Bachelor</td>
+    <td>TinyML offloading</td>
+    <td>Develop a library for TinyML which allows offloading part of the neural network to an Edge server.</td>
+    <td></td>
+    <td>IoT, Performance Evaluation</td>
+</tr>
+</table>
+
+
+
+
+
+<hr>
 <h1>IoT</h1>
 <table style='border:solid'>
 <tr>
