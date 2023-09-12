@@ -260,7 +260,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>Explore the trade-off between service quality and data privacy in ubiquitous systems, when part of the computation can be done locally</td>
     <td>UNIBO</td>
     <td>IoT, Application Development, Privacy</td>
-</tr>-->
+</tr>
 <tr>
     <td>Master</td>
     <td>Understanding how routine habits may uncover privacy issues</td>
@@ -268,4 +268,4 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>UC Irvine</td>
     <td>Graph Theory, Privacy</td>
 </tr>
-</table>
+</table>-->
