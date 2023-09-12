@@ -87,8 +87,8 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 </tr>-->
 <tr>
     <td>Bachelor</td>
-    <td>Performance analysis of TinyML</td>
-    <td>Analyze the performance of TinyML on different low-power microcontrollers</td>
+    <td>TinyML offloading</td>
+    <td>Develop a library for TinyML which allows offloading part of the neural network to an Edge server.</td>
     <td></td>
     <td>IoT, Performance Evaluation</td>
 </tr>
@@ -111,6 +111,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>UNIBO</td>
     <td>Activity recognition, Neural Networks</td>
 </tr>
+<!--
 <tr>
     <td>Bachelor/Master</td>
     <td>Activity recognition with Continual Learning</td>
@@ -118,6 +119,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>UNIPI</td>
     <td>Context Aware Computing, Activity Recognition, IoT</td>
 </tr>
+-->
 <tr>
     <td>Bachelor</td>
     <td>Identification of users from inertial sensors</td>
@@ -125,6 +127,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td></td>
     <td>Application Development, IoT, Activity Recognition</td>
 </tr>
+<!--
 <tr>
     <td>Bachelor/Master</td>
     <td>Survey on context awareness tasks and services</td>
@@ -160,10 +163,11 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td></td>
     <td>IoT, Activity recognition, WiFi CSI, Privacy</td>
 </tr>
+-->
 <tr>
     <td>Bachelor/Master</td>
     <td>Recognition of key daily activities for patients</td>
-    <td>Patient monitoring can be done with wearables, and this thesis focuses on the recognition of key activities in a day for patients witrh different pathologies.</td>
+    <td>Patient monitoring can be done with wearables, and this thesis focuses on the recognition of key activities in a day for patients with different pathologies.</td>
     <td></td>
     <td>IoT, Activity recognition, e-Health</td>
 </tr>
@@ -193,6 +197,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>UNIBO</td>
     <td>Crowdsensing, IoT</td>
 </tr>
+<!--
 <tr>
     <td>Master</td>
     <td>Participatory Crowdsensing analysis</td>
@@ -200,8 +205,10 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td></td>
     <td>Crowdsensing, Data Science</td>
 </tr>
+-->
 </table>
 
+<!--
 <hr>
 <h1>Privacy</h1>
 <table style='border:solid'>
@@ -233,7 +240,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td></td>
     <td>K-anonymity, Privacy</td>
 </tr>
-<!--<tr>
+<tr>
     <td>Master</td>
     <td>Privacy resilience of datasets based on few certainties</td>
     <td>Assess the resilience of datasets against identification attacks, when certainties about the users are gathered through other sources</td>
