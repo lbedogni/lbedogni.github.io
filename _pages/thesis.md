@@ -33,22 +33,36 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>Bachelor/Master</td>
     <td>Supply chain traceability with blockchain</td>
     <td>The goal of this industry related internship is to develop a traceability system integrated with a Blockchain, to guarantee transparency to the end user. </td>
-    <td></td>
+    <td>DIGIBELT Srl</td>
     <td>IoT, Industry 4.0, Blockchain</td>
 </tr>
 <tr>
     <td>Bachelor/Master</td>
     <td>Machine based analysis on production data</td>
     <td>This work focuses on data analysis for production processes, to analyze large quantities of data and to assess patterns within them.</td>
-    <td></td>
+    <td>DIGIBELT Srl</td>
     <td>IoT, Data Science</td>
 </tr>
 <tr>
     <td>Bachelor/Master</td>
     <td>Automatic generation of corrective actions in Industry 4.0</td>
     <td>Through the analysis of sensor data and actions performed by operators, this work focuses on the automatic recognition of patterns which have to be translated into automated actions.</td>
-    <td></td>
+    <td>DIGIBELT Srl</td>
     <td>AI, WoT</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Automatic classification of issues in Smart Cities</td>
+    <td>Through the analysis of images, this thesis focuses on the classification of issues in smart cities such as potholes, broken trees, waste and alike. A dataset of images is available.</td>
+    <td>Comuni-Chiamo</td>
+    <td>AI, Crowdsensing</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Data analysis on user behavior</td>
+    <td>Through the analysis of user reports in a deployed crowdsensing application, this thesis focuses on understanding patterns about user communication to the central platform.</td>
+    <td>Comuni-Chiamo</td>
+    <td>AI, Crowdsensing, Data analysis</td>
 </tr>
 <!--<tr>
     <td>Bachelor/Master</td>
@@ -85,13 +99,6 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>DIGIBELT Srl</td>
     <td>Industry 4.0, Application Development, AI</td>
 </tr>-->
-<tr>
-    <td>Bachelor</td>
-    <td>TinyML offloading</td>
-    <td>Develop a library for TinyML which allows offloading part of the neural network to an Edge server.</td>
-    <td></td>
-    <td>IoT, Performance Evaluation</td>
-</tr>
 </table>
 
 
