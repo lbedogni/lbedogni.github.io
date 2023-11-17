@@ -5,7 +5,7 @@ permalink: /projects/
 nav: true
 nav_order: 2
 horizontal: false
-categories: [project,private-project-research]
+categories: [active,completed,research]
 ---
 
 Luca Bedogni research work focuses on span across several domains, including the Internet of Things, Digital Twins, Crowdsensing systems and the privacy issues which lie therein. On these topics he has co-authored more than 70 scientific papers on international conferences and journals, and he participated and actively participates in national and international research projects. 
@@ -20,6 +20,7 @@ Below there is a list of research topics and projects he has participated or is 
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
+  aaaa
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
@@ -43,6 +44,7 @@ Below there is a list of research topics and projects he has participated or is 
   {% endfor %}
 
 {%- else -%}
+bbbb
 <!-- Display projects without categories -->
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
