@@ -54,7 +54,8 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>Bachelor/Master</td>
     <td>Automatic classification of issues in Smart Cities</td>
     <td>Through the analysis of images, this thesis focuses on the classification of issues in smart cities such as potholes, broken trees, waste and alike. A dataset of images is available.</td>
-    <td>Comuni-Chiamo</td>
+    <td>Comuni-Chiamo</td>nn3
+    ,
     <td>AI, Crowdsensing</td>
 </tr>
 <tr>
