@@ -199,6 +199,20 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td></td>
     <td>IoT, Performance Evaluation</td>
 </tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>TinyML Split Computing over LoRa</td>
+    <td>Evaluate the performance of Split Computing over LoRa networks.</td>
+    <td></td>
+    <td>IoT, Split Computing, LoRa, Performance Evaluation</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Performance evaluation of network protocols for TinyML Split Computing</td>
+    <td>Evaluate the performance of different network protocols for TinyML Split Computing.</td>
+    <td></td>
+    <td>IoT, Split Computing, Network, Performance Evaluation</td>
+</tr>
 </table>
 
 <hr>
