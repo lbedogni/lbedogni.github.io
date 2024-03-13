@@ -124,11 +124,12 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 </tr>
 <tr>
     <td>Bachelor/Master</td>
-    <td>Fluid-AI services</td>
-    <td>Extending the WoT standard with computation services, leveraging the WoT definition to extend it towards providing a standardized approach to computing service.</td>
+    <td>MQTT with broker-enabled computation functions</td>
+    <td>Develop and test an MQTT broker, starting from an existing one, which allows computation functions to run on received data. This allows to re-publish, without additional communication, part of the data on other topics.</td>
     <td></td>
-    <td>AI, WoT</td>
+    <td>IoT, MQTT</td>
 </tr>
+
 <!--<tr>
     <td>Bachelor/Master</td>
     <td>Joining Context Awareness and Privacy</td>
@@ -174,6 +175,40 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 </table>
 
 <hr>
+<h1>Digital Twins</h1>
+<table style='border:solid'>
+<tr>
+    <th>B.Sc./M.Sc.</th>
+    <th>Title</th>
+    <th>Abstract</th>
+    <th>Partners</th>
+    <th>Topics</th>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Development of an Android Digital Twin</td>
+    <td>In this thesis the aim is to develop a digital twin implementation on Android devices. This allows to keep data obtained from physical devices closer to the user, which has benefits also about privacy.</td>
+    <td></td>
+    <td>IoT, Digital Twin, Android</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Fluid-AI services</td>
+    <td>Extending the WoT standard with computation services, leveraging the WoT definition to extend it towards providing a standardized approach to computing service.</td>
+    <td></td>
+    <td>AI, WoT</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Digital Twin coopearation</td>
+    <td>Fluid-empowered digital twins have the possibility to collaborate among each other. In this thesis, the aim is to develop functions and methodologies to allows DTs to share data and provide services possible only by the joint analysis of data.</td>
+    <td></td>
+    <td>Digital Twin</td>
+</tr>
+
+</table>
+
+<hr>
 <h1>Activity Recognition</h1>
 <table style='border:solid'>
 <tr>
@@ -199,6 +234,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>Context Aware Computing, Activity Recognition, IoT</td>
 </tr>
 -->
+<!--
 <tr>
     <td>Bachelor</td>
     <td>Identification of users from inertial sensors</td>
@@ -206,7 +242,6 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td></td>
     <td>Application Development, IoT, Activity Recognition</td>
 </tr>
-<!--
 <tr>
     <td>Bachelor/Master</td>
     <td>Survey on context awareness tasks and services</td>
@@ -249,6 +284,34 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>Patient monitoring can be done with wearables, and this thesis focuses on the recognition of key activities in a day for patients with different pathologies.</td>
     <td></td>
     <td>IoT, Activity recognition, e-Health</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Activity recognition with low cost devices</td>
+    <td>Low cost wearable devices are widely available. The sensed that though is less accurate than more expensive sensors. In this thesis, we aim to understand the limits of acitvity recognition with inaccurate and noisy sensors, and develop methods to perform efficient activity recognition on those devices.</td>
+    <td></td>
+    <td>IoT, Activity recognition</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Labeling of unlabeled data</td>
+    <td>Most data obtained from wearable devices is unlabeled. In this thesis, we want to explore how it is possible to label unlabeled data by providing a confidence threshold on the data recognized, and use such data to improve the model training.</td>
+    <td></td>
+    <td>IoT, Activity recognition</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Labeling of unlabeled data with multiple devices</td>
+    <td>Most data obtained from wearable devices is unlabeled. In this thesis, we want to explore how it is possible to label unlabeled data by utilizing data obtained from different sensors, and complement that of others on the same human body.</td>
+    <td></td>
+    <td>IoT, Activity recognition</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Stress monitoring via wearable devices</td>
+    <td>Through the data obtained from wearable devices, we want to estimate physical conditions of the human being, such as the stress and confidence in performing specific actions.</td>
+    <td></td>
+    <td>IoT, Activity recognition</td>
 </tr>
 </table>
 
