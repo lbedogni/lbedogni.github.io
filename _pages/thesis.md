@@ -31,6 +31,20 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 </tr>
 <tr>
     <td>Bachelor/Master</td>
+    <td>Packet fall detection</td>
+    <td>The goal of this internship is to develop a vision system to track packets and boxes which fall from pallets, to notify operators to fix the issue. </td>
+    <td>Kosme Srl</td>
+    <td>AI</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Packets on pallets stability</td>
+    <td>The goal of this internship is to analyze a vast dataset of issues related to pallets building, to find patterns about issues related to packets and boxes falling from them.</td>
+    <td>Kosme Srl</td>
+    <td>AI, Data Science</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
     <td>Supply chain traceability with blockchain</td>
     <td>The goal of this industry related internship is to develop a traceability system integrated with a Blockchain, to guarantee transparency to the end user. </td>
     <td>DIGIBELT Srl (BO)</td>
