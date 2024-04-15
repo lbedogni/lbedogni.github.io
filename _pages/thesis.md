@@ -151,26 +151,13 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <th>Topics</th>
 </tr>
 <tr>
-    <td>Master</td>
-    <td>Efficient ECG reconstruction at the EDGE</td>
-    <td>Develop a an efficient framework which reconstructs and classifies ECG of patients at the EDGE</td>
-    <td>UC Irvine</td>
-    <td>IoT, e-Health, Neural Networks</td>
-</tr>
-<tr>
     <td>Bachelor/Master</td>
     <td>MQTT with multiple retention messages</td>
     <td>Develop and test an MQTT broker which enables an extension of the protocol to allow multiple messages to be retained. For a Master thesis, also integrate traffic recognition.</td>
     <td></td>
     <td>IoT, MQTT</td>
 </tr>
-<tr>
-    <td>Bachelor/Master</td>
-    <td>MQTT with broker-enabled computation functions</td>
-    <td>Develop and test an MQTT broker, starting from an existing one, which allows computation functions to run on received data. This allows to re-publish, without additional communication, part of the data on other topics.</td>
-    <td></td>
-    <td>IoT, MQTT</td>
-</tr>
+
 
 <!--<tr>
     <td>Bachelor/Master</td>
@@ -336,13 +323,6 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 -->
 <tr>
     <td>Bachelor/Master</td>
-    <td>Recognition of key daily activities for patients</td>
-    <td>Patient monitoring can be done with wearables, and this thesis focuses on the recognition of key activities in a day for patients with different pathologies.</td>
-    <td></td>
-    <td>IoT, Activity recognition, e-Health</td>
-</tr>
-<tr>
-    <td>Bachelor/Master</td>
     <td>Activity recognition with low cost devices</td>
     <td>Low cost wearable devices are widely available. The sensed that though is less accurate than more expensive sensors. In this thesis, we aim to understand the limits of acitvity recognition with inaccurate and noisy sensors, and develop methods to perform efficient activity recognition on those devices.</td>
     <td></td>
@@ -350,22 +330,15 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 </tr>
 <tr>
     <td>Bachelor/Master</td>
-    <td>Labeling of unlabeled data</td>
-    <td>Most data obtained from wearable devices is unlabeled. In this thesis, we want to explore how it is possible to label unlabeled data by providing a confidence threshold on the data recognized, and use such data to improve the model training.</td>
+    <td>Self supervised learning in Activity Recognition</td>
+    <td>Most data obtained from wearable devices is unlabeled. In this thesis, we want to explore how it is possible to label unlabeled data by providing a confidence threshold on the data recognized, and use such data to improve the model training through Self Supervised Learning.</td>
     <td></td>
     <td>IoT, Activity recognition</td>
 </tr>
 <tr>
     <td>Bachelor/Master</td>
-    <td>Labeling of unlabeled data with multiple devices</td>
-    <td>Most data obtained from wearable devices is unlabeled. In this thesis, we want to explore how it is possible to label unlabeled data by utilizing data obtained from different sensors, and complement that of others on the same human body.</td>
-    <td></td>
-    <td>IoT, Activity recognition</td>
-</tr>
-<tr>
-    <td>Bachelor/Master</td>
-    <td>Stress monitoring via wearable devices</td>
-    <td>Through the data obtained from wearable devices, we want to estimate physical conditions of the human being, such as the stress and confidence in performing specific actions.</td>
+    <td>Self supervised learning in Activity Recognition with multiple devices</td>
+    <td>Most data obtained from wearable devices is unlabeled. In this thesis, we want to explore how it is possible to label unlabeled data by utilizing data obtained from different sensors, and complement that of others on the same human body through Self Supervised Learning.</td>
     <td></td>
     <td>IoT, Activity recognition</td>
 </tr>
