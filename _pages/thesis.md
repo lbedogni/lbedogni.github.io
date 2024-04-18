@@ -215,6 +215,13 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td></td>
     <td>IoT, Split Computing, Network, Performance Evaluation</td>
 </tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>TinyML Split Computing library</td>
+    <td>Starting from [[https://github.com/UBICO/TinyML-Split-Computing]], develop an edge server capable of handling the split computing requests. Publication available: [[https://doi.org/10.1109/CCNC51664.2024.10454775]]</td>
+    <td></td>
+    <td>IoT, Split Computing, Network, Performance Evaluation</td>
+</tr>
 </table>
 
 <hr>
@@ -339,6 +346,13 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>Bachelor/Master</td>
     <td>Self supervised learning in Activity Recognition with multiple devices</td>
     <td>Most data obtained from wearable devices is unlabeled. In this thesis, we want to explore how it is possible to label unlabeled data by utilizing data obtained from different sensors, and complement that of others on the same human body through Self Supervised Learning.</td>
+    <td></td>
+    <td>IoT, Activity recognition</td>
+</tr>
+<tr>
+    <td>Bachelor/Master</td>
+    <td>Benchmarking platform for Activity Recognition</td>
+    <td>Provide a framework to test different activity recognition algorithms. The main work is to research already published algorithms, develop a layer to homogenize data, and test all developed algorithms.</td>
     <td></td>
     <td>IoT, Activity recognition</td>
 </tr>
