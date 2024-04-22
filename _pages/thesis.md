@@ -218,7 +218,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 <tr>
     <td>Bachelor/Master</td>
     <td>TinyML Split Computing library</td>
-    <td>Starting from [[https://github.com/UBICO/TinyML-Split-Computing]], develop an edge server capable of handling the split computing requests. Publication available: [[https://doi.org/10.1109/CCNC51664.2024.10454775]]</td>
+    <td>Starting from <a href="https://github.com/UBICO/TinyML-Split-Computing">this git repository</a>, develop an edge server capable of handling the split computing requests. Publication available: <a href="https://doi.org/10.1109/CCNC51664.2024.10454775">Publication link</a></td>
     <td></td>
     <td>IoT, Split Computing, Network, Performance Evaluation</td>
 </tr>
