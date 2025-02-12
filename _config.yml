@@ -206,6 +206,7 @@ plugins:
 #  - jekyll-paginate
 #  - jekyll-sitemap
 #  - jekyll-gist
+  - feedjira
   - jekyll-feed
 #  - jemoji
 #  - jekyll-include-cache
