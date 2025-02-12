@@ -202,14 +202,14 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
+#  - jekyll
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
   - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-scholar
+#  - jemoji
+#  - jekyll-include-cache
+#  - jekyll-scholar
 
 # Sitemap settings
 defaults:
