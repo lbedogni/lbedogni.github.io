@@ -25,7 +25,6 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 repository: "lbedogni/lbedogni.github.io"
 
 remote-theme: "alshedivat/al-folio" # the theme name, see
-theme: "alshedivat/al-folio" # the theme name, see
 
 # -----------------------------------------------------------------------------
 # Theme
