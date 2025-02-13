@@ -29,15 +29,6 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
 <noscript>Free cookie consent management tool by <a href="https://www.termsfeed.com/" rel="nofollow noopener">TermsFeed Policy Generator</a></noscript>
 <!-- End Cookie Consent by TermsFeed https://www.TermsFeed.com -->
 
-
-
-
-
-<!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
-
-<!--<a href="#" id="open_preferences_center">Update cookies preferences</a>-->
-
-
 Luca Bedogni is Associate Professor at the University of Modena and Reggio Emilia, Italy.
 
 He received his Bachelor Degree and Master Degree (Summa Cum Laude) in Computer Science from the University of Bologna, Italy. His Master thesis developed a MAC Protocol for Vehicular Ad Hoc Networks (VANETs).
@@ -52,6 +43,3 @@ He won the best paper award at Med-Hoc-Net 2013 for his paper “Re-estabilishin
 He won the best paper award at CANDAR 2014 for his paper ““A Collision-Free Contention Protocol Based on Pulse/Tone Signals”.
 
 His current research interest span from the Internet of Things for heterogeneous devices, to context aware computing. For details, please refer to the research page.
-
-<!--Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
