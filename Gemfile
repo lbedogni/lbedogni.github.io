@@ -20,7 +20,7 @@ end
 
 #gem "liquid", "~> 4.0"
 
-gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll-scholar", "~> 6.0", group: :jekyll_plugins
 
