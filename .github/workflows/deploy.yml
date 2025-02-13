@@ -83,6 +83,7 @@ jobs:
         run: sudo apt-get install imagemagick 
       - name: Install and Build 🔧
         run: |
+          gem install jekyll-remote-theme
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
