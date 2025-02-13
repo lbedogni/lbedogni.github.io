@@ -22,7 +22,7 @@ end
 
 gem "github-pages", "~> 227", group: :jekyll_plugins
 
-gem "jekyll-scholar"
+gem "jekyll-scholar", "~> 6.0", group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
