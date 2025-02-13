@@ -20,9 +20,9 @@ end
 
 #gem "liquid", "~> 4.0"
 
-#gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "github-pages", "~> 227", group: :jekyll_plugins
 
-gem "jekyll-scholar", "~> 6.0", group: :jekyll_plugins
+#gem "jekyll-scholar", "~> 6.0", group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
