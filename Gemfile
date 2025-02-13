@@ -18,9 +18,9 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
 
-gem "liquid", "~> 4.0"
+#gem "liquid", "~> 4.0"
 
-gem "github-pages", "~> 231", group: :jekyll_plugins
+gem "github-pages", "~> 227", group: :jekyll_plugins
 
 
 
