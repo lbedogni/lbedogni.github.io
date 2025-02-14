@@ -14,5 +14,5 @@ The Arrowhead project aims at increasing the interoperability of services, mainl
 
 Arrowhead is addressing efficiency and flexibility at the global scale by means of collaborative automation for five application verticals. That means production (manufacturing, process, energy), smart buildings and infrastructures, electro-mobility and virtual market of energy.
 
- {% include figure.html path="assets/img/arrowhead_overview.png" title="Arrowhead Overview" class="img-fluid rounded z-depth-1" %}
+ {% include figure.liquid path="assets/img/arrowhead_overview.png" title="Arrowhead Overview" class="img-fluid rounded z-depth-1" %}
  Credits: The Arrowhead project 

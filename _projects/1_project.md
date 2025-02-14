@@ -13,4 +13,4 @@ The Internet of Energy for Electric Mobility project aims at the definition and 
 <a href="https://artemis-ia.eu/project/poster/download/696">IoE Leaflet</a>
 
 <h2>IoE Partners</h2>
- {% include figure.html path="assets/img/ioe_partners.png" title="IoE Partners" class="img-fluid rounded z-depth-1" %} 
+ {% include figure.liquid path="assets/img/ioe_partners.png" title="IoE Partners" class="img-fluid rounded z-depth-1" %} 
