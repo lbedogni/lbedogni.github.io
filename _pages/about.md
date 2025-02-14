@@ -29,7 +29,7 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
 <noscript>Free cookie consent management tool by <a href="https://www.termsfeed.com/" rel="nofollow noopener">TermsFeed Policy Generator</a></noscript>
 <!-- End Cookie Consent by TermsFeed https://www.TermsFeed.com -->
 
-Luca Bedogni is Associate Professor at the University of Modena and Reggio Emilia, Italy.
+Luca Bedognia is Associate Professor at the University of Modena and Reggio Emilia, Italy.
 
 He received his Bachelor Degree and Master Degree (Summa Cum Laude) in Computer Science from the University of Bologna, Italy. His Master thesis developed a MAC Protocol for Vehicular Ad Hoc Networks (VANETs).
 In 2015, he received the PhD degree from the University of Bologna, with the additional title of “Doctor Europeaus”.
