@@ -29,14 +29,14 @@ Below there is a list of research topics and projects he has participated or is 
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include projects.liquid %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -50,14 +50,14 @@ Below there is a list of research topics and projects he has participated or is 
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include projects.liquid %}
     {%- endfor %}
   </div>
   {%- endif -%}
