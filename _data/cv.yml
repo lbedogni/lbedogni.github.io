@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Luca Bedogni
+      value: Albert Einstein
     - name: Date of Birth
-      value: 1st July 1985
+      value: 14th March 1879
     - name: Languages
-      value: English, Italian
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Bologna, Italy
-      year: 2015
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
@@ -72,18 +72,18 @@
   type: time_table
   contents:
     - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+      items:
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
-      items: 
+      items:
         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.
