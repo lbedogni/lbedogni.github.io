@@ -4,6 +4,7 @@ title: Added news on the website
 date: 2025-02-17 01:59:00
 description: Added news to the website
 tags: news
+inline: false
 categories: sample-posts
 thumbnail: assets/img/avatar-man.png
 images:
