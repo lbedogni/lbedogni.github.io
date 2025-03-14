@@ -253,7 +253,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     <td>Digital Twin coopearation</td>
     <td>Fluid-empowered digital twins have the possibility to collaborate among each other. In this thesis, the aim is to develop functions and methodologies to allows DTs to share data and provide services possible only by the joint analysis of data.</td>
     <td></td>
-    <td>Digital Twin</td>
+    <td>Digital Twins</td>
 </tr>
 
 </table>
