@@ -39,7 +39,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
             <td>Self Supervised Learning</td>
             <td>Most data obtained from wearable devices is unlabeled. In this thesis, we want to explore how it is possible to label unlabeled data by utilizing data obtained from different sensors, and complement that of others on the same human body through Self Supervised Learning.</td>
             <td></td>
-            <td>ActivityRecognition</td>
+            <td>Activity Recognition</td>
             </tr>
 <tr>
             <td>Homeassistant data collector</td>
@@ -81,7 +81,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
             <td>Bicycles determine the road condition</td>
             <td>Determine the road condition based on users which perform specific actions in certain locations. Start from the thesis done at UNIBO.</td>
             <td>UNIBO</td>
-            <td>ActivityRecognition</td>
+            <td>Activity Recognition</td>
             </tr>
 <tr>
             <td>application</td>
@@ -117,7 +117,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
             <td>Text and Drive</td>
             <td>Use the rear camera of the smartphone to detect steering wheel, Gear and other objects.Check differences between night and day modelsMeasurements on the inference time, Model size on the thesis Activity recognition - benchmarkPersonalize models with federated learningMake a short video which shows each frame being classified and what does this mean for overall classification. We can also try with different models such as yolo or smartdetGet a dataset while actually texting and driving but only with images taken as the passenger, then flip them horizontally to mimic the driver seat</td>
             <td>UNIBO</td>
-            <td>ActivityRecognition</td>
+            <td>Activity Recognition</td>
             </tr>
 <tr>
             <td>Packets on pallet stability</td>
@@ -153,7 +153,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
             <td>benchmark</td>
             <td>Provide a framework to test different activity recognition algorithms.Work: research already published algorithms, develop a layer to homogenize data, and test all developed algorithms.</td>
             <td></td>
-            <td>ActivityRecognition</td>
+            <td>Activity Recognition</td>
             </tr>
 <tr>
             <td>Data digitalization</td>
