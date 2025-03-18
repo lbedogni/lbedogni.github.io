@@ -21,7 +21,15 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 
 <hr>
 <h1>Internships with Industries</h1>
-<table style='border:solid'><tr>
+<table style='border:solid'>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Partners</th>
+            <th>Main topic</th>
+        </tr>
+    </thead><tr>
             <td>Distributed Liquid Computing Dashboard</td>
             <td>Design and develop a dashboard for Distributed Liquid Computing to monitor the status of a distributed liquid computing system, gathering data from devices and visualizing them. The dashboard also supports the definition of new pipelines.</td>
             <td></td>
