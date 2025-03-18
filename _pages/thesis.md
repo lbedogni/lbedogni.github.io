@@ -30,13 +30,13 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 <tr>
             <td>Self Supervised Learning</td>
             <td>Most data obtained from wearable devices is unlabeled. In this thesis, we want to explore how it is possible to label unlabeled data by utilizing data obtained from different sensors, and complement that of others on the same human body through Self Supervised Learning.</td>
-            <td>None</td>
-            <td>Activity_Recognition</td>
+            <td></td>
+            <td>ActivityRecognition</td>
             </tr>
 <tr>
             <td>Homeassistant data collector</td>
             <td>Obtain data from homeassistant. Collect status of sensors  and save them so that it can be later possible to perform human-activity-recognition tasks.</td>
-            <td>None</td>
+            <td></td>
             <td>IoT</td>
             </tr>
 <tr>
@@ -60,20 +60,20 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 <tr>
             <td>TinyML offloading Networking optimization</td>
             <td>Starting from the code available at https://github.com/UBICO/SCIoT, develop and test  new communication protocols for the system</td>
-            <td>None</td>
+            <td></td>
             <td></td>
             </tr>
 <tr>
             <td>ESP32 With Edge Impulse</td>
             <td>This thesis should test the limits of on the thesis Edge Impulse specifically for on the thesis ESP32 devices.- network complexity- model size- comparison with custom models</td>
-            <td>None</td>
+            <td></td>
             <td>IoT</td>
             </tr>
 <tr>
             <td>Bicycles determine the road condition</td>
             <td>Determine the road condition based on users which perform specific actions in certain locations. Start from the thesis done at UNIBO.</td>
             <td>UNIBO</td>
-            <td>Activity_Recognition</td>
+            <td>ActivityRecognition</td>
             </tr>
 <tr>
             <td>application</td>
@@ -109,7 +109,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
             <td>Text and Drive</td>
             <td>Use the rear camera of the smartphone to detect steering wheel, Gear and other objects.Check differences between night and day modelsMeasurements on the inference time, Model size on the thesis Activity recognition - benchmarkPersonalize models with federated learningMake a short video which shows each frame being classified and what does this mean for overall classification. We can also try with different models such as yolo or smartdetGet a dataset while actually texting and driving but only with images taken as the passenger, then flip them horizontally to mimic the driver seat</td>
             <td>UNIBO</td>
-            <td>Activity_Recognition</td>
+            <td>ActivityRecognition</td>
             </tr>
 <tr>
             <td>Packets on pallet stability</td>
@@ -126,7 +126,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 <tr>
             <td>Task decomposition</td>
             <td>Starting from monolithic code, automatically decompose it into multiple, simpler tasks that can be computed in distributed nodes.</td>
-            <td>None</td>
+            <td></td>
             <td></td>
             </tr>
 <tr>
@@ -144,8 +144,8 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 <tr>
             <td>benchmark</td>
             <td>Provide a framework to test different activity recognition algorithms.Work: research already published algorithms, develop a layer to homogenize data, and test all developed algorithms.</td>
-            <td>None</td>
-            <td>Activity_Recognition</td>
+            <td></td>
+            <td>ActivityRecognition</td>
             </tr>
 <tr>
             <td>Data digitalization</td>
@@ -156,19 +156,13 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 <tr>
             <td>TinyML Split Computing library</td>
             <td>Starting from https://github.com/UBICO/SCIoT, develop an edge server capable of handling the split computing requests. Publication available at https://doi.org/10.1109/CCNC51664.2024.10454775</td>
-            <td>None</td>
             <td></td>
-            </tr>
-<tr>
-            <td>Packet fall detection</td>
-            <td>The goal of this internship is to develop a vision system to track packets and boxes which fall from pallets, to notify operators to fix the issue.</td>
-            <td>Kosme SrL</td>
-            <td>['Industry']</td>
+            <td></td>
             </tr>
 <tr>
             <td>different devices</td>
             <td>Test how different devices perceive the same data. Here the objective is to develop a simple application which collects data and records it, and compare it against different devices.The thesis should also analyse the state of the art to find which data is sensed by crowdsensing applications and categorize it, so that it is possible to compare devices against useful data.</td>
-            <td>None</td>
+            <td></td>
             <td>Crowdsensing</td>
             </tr>
 </table>
