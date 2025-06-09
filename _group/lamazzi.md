@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lorenzo lamazzi
+title: Lorenzo Lamazzi
 permalink: /lorenzo-lamazzi
-description: M.Sc. Student
+description: Research fellow
 img: assets/img/avatar-man.png
 importance: 3
 category: group
