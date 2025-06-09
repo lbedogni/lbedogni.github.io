@@ -7,5 +7,3 @@ img: assets/img/avatar-man.png
 importance: 2
 category: group
 ---
-
-Emanuele Zarfati Page
