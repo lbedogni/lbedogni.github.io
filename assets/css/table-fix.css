@@ -1,0 +1,49 @@
+/* Fix for invisible table borders */
+
+/* Ensure basic table borders are visible */
+.table,
+.table-bordered {
+  border: 1px solid #dee2e6 !important;
+}
+
+.table td,
+.table th {
+  border-top: 1px solid #dee2e6 !important;
+}
+
+.table-bordered td,
+.table-bordered th {
+  border: 1px solid #dee2e6 !important;
+}
+
+/* Dark theme support */
+[data-theme="dark"] .table,
+[data-theme="dark"] .table-bordered {
+  border: 1px solid #495057 !important;
+}
+
+[data-theme="dark"] .table td,
+[data-theme="dark"] .table th {
+  border-top: 1px solid #495057 !important;
+}
+
+[data-theme="dark"] .table-bordered td,
+[data-theme="dark"] .table-bordered th {
+  border: 1px solid #495057 !important;
+}
+
+/* Light theme overrides */
+html[data-theme="light"] .table,
+html[data-theme="light"] .table-bordered {
+  border: 1px solid #dee2e6 !important;
+}
+
+html[data-theme="light"] .table td,
+html[data-theme="light"] .table th {
+  border-top: 1px solid #dee2e6 !important;
+}
+
+html[data-theme="light"] .table-bordered td,
+html[data-theme="light"] .table-bordered th {
+  border: 1px solid #dee2e6 !important;
+}

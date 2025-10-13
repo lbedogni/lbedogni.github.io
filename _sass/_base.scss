@@ -28,10 +28,20 @@ table {
   th {
     font-size: 1rem;
     padding: 1px 1rem 1px 0;
+    border-top: 1px solid var(--global-divider-color, #dee2e6);
   }
 
   th {
     font-weight: bold;
+  }
+
+  &.table-bordered {
+    border: 1px solid var(--global-divider-color, #dee2e6);
+    
+    td,
+    th {
+      border: 1px solid var(--global-divider-color, #dee2e6);
+    }
   }
 }
 
