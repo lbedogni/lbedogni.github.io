@@ -9,7 +9,7 @@ horizontal: false
 
 Here you can find a list of available Bachelor and Master thesis available, along with internships. There may be also novel projects available, so please check with me if you are interested in the topics I work on.
 
-General rules for taking an internship or thesis work with me
+<h3>General rules for taking an internship or thesis work with me</h3>
 
 I am always happy to work with Bachelor and Master students, and I am glad that you are considering one of the topic I propose. Undergoing a thesis work is a key step in your education, and it is a challenging yet rewarding experience. The following rules are meant to be a guideline so that both you and me can carry the project in an efficient manner.
 
