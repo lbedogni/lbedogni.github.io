@@ -23,3 +23,59 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Fix for invisible table borders - Force visible borders
+table {
+  border-collapse: collapse !important;
+  
+  td,
+  th {
+    border: 1px solid #dee2e6 !important;
+  }
+}
+
+.table {
+  border: 1px solid #dee2e6 !important;
+  
+  td,
+  th {
+    border: 1px solid #dee2e6 !important;
+  }
+}
+
+.table-bordered {
+  border: 1px solid #dee2e6 !important;
+  
+  td,
+  th {
+    border: 1px solid #dee2e6 !important;
+  }
+}
+
+// Dark theme table borders
+html[data-theme="dark"] {
+  table {
+    td,
+    th {
+      border: 1px solid #495057 !important;
+    }
+  }
+  
+  .table {
+    border: 1px solid #495057 !important;
+    
+    td,
+    th {
+      border: 1px solid #495057 !important;
+    }
+  }
+  
+  .table-bordered {
+    border: 1px solid #495057 !important;
+    
+    td,
+    th {
+      border: 1px solid #495057 !important;
+    }
+  }
+}
