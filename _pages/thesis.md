@@ -20,7 +20,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 * <b><u>The Internship/thesis is YOUR responsibility</u></b>: I will not remind you about deadlines, documents to fill, bureaucracy and alike. It is your responsibility to perform these tasks.
 
 <hr>
-<h1>Internships with Industries</h1>
+
 <table style='border:solid'>
     <thead>
         <tr>
