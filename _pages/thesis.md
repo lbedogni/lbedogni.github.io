@@ -163,12 +163,12 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     </thead>
     <tbody>
             <tr>
-                <td>application</td>
+                <td>Application</td>
                 <td>Need an omnicomprehensive application to collect data from smartphones. This ideally should go into the backend developed as part of on the thesis Crowdsensing - backend and frontend. Need to check with comitato etico beforehand.</td>
                 <td>UNIBO</td>
             </tr>
             <tr>
-                <td>economical benefits</td>
+                <td>Economical benefits</td>
                 <td>It is also needed to assess the economical benefits of crowdsensing. Simple analysis which takes into account costs for infrastracture based solutions and for crowdsensing applications.</td>
                 <td>UNIBO</td>
             </tr>
@@ -178,7 +178,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
                 <td>Comunichiamo SrL</td>
             </tr>
             <tr>
-                <td>different devices</td>
+                <td>Heterogeneity with different devices</td>
                 <td>Test how different devices perceive the same data. Here the objective is to develop a simple application which collects data and records it, and compare it against different devices.The thesis should also analyse the state of the art to find which data is sensed by crowdsensing applications and categorize it, so that it is possible to compare devices against useful data.</td>
                 <td></td>
             </tr>
