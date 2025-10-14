@@ -18,9 +18,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 * <b><u>I am not gdb (or similar)</u></b>: do not send me code saying “it does not work”. Explain what you have tried, on what circumstances you experience any problem. Be proactive, be clear.
 * <b><u>How to write</u></b>: we will use LaTeX, which may seem difficult at the beginning but you will benefit a lot from it at the later stages. A good tool to share the thesis work is Overleaf.
 * <b><u>The Internship/thesis is YOUR responsibility</u></b>: I will not remind you about deadlines, documents to fill, bureaucracy and alike. It is your responsibility to perform these tasks.
-
-<hr>
-<h1>Internships with Industries</h1><h2>Other</h2>
+<h2>Other</h2>
 <table style='border:solid'>
     <thead>
         <tr>
