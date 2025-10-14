@@ -205,4 +205,3 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     </tbody>
 </table>
 
-</table>
