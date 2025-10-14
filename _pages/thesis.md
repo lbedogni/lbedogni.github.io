@@ -21,7 +21,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 
 <hr>
 <h1>Internships with Industries</h1>
-<table style='border:solid'>
+<table style="border:solid">
     <thead>
         <tr>
             <th>Title</th>
@@ -31,7 +31,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
     </thead>
     </table>
     <h2>Other</h2>
-    <table style='border:solid'>
+    <table style="border:solid">
         <thead>
             <tr>
                 <th>Title</th>
