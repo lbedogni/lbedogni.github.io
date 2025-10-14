@@ -20,7 +20,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
 * <b><u>The Internship/thesis is YOUR responsibility</u></b>: I will not remind you about deadlines, documents to fill, bureaucracy and alike. It is your responsibility to perform these tasks.
 
 <hr>
-<h1>Internships with Industries</h1>
+<h1>Internships with Industries</h1><h2>Other</h2>
 <table style='border:solid'>
     <thead>
         <tr>
@@ -29,8 +29,7 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
             <th>Partners</th>
         </tr>
     </thead>
-        <tbody>
-            <tr><td colspan="3"><h2>Other</h2></td></tr>
+    <tbody>
             <tr>
                 <td>Distributed Liquid Computing Dashboard</td>
                 <td>Design and develop a dashboard for Distributed Liquid Computing to monitor the status of a distributed liquid computing system, gathering data from devices and visualizing them. The dashboard also supports the definition of new pipelines.</td>
@@ -96,19 +95,19 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
                 <td>Starting from https://github.com/UBICO/SCIoT, develop an edge server capable of handling the split computing requests. Publication available at https://doi.org/10.1109/CCNC51664.2024.10454775</td>
                 <td></td>
             </tr>
+    </tbody>
+</table>
 
-        </tbody>
-    </table>
-    <h2>Activity_Recognition</h2>
-    <table style='border:solid'>
-        <thead>
-            <tr>
-                <th>Title</th>
-                <th>Description</th>
-                <th>Partners</th>
-            </tr>
-        </thead>
-        <tbody>
+<h2>Activity_Recognition</h2>
+<table style='border:solid'>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Partners</th>
+        </tr>
+    </thead>
+    <tbody>
             <tr>
                 <td>Self Supervised Learning</td>
                 <td>Most data obtained from wearable devices is unlabeled. In this thesis, we want to explore how it is possible to label unlabeled data by utilizing data obtained from different sensors, and complement that of others on the same human body through Self Supervised Learning.</td>
@@ -129,19 +128,19 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
                 <td>Provide a framework to test different activity recognition algorithms.Work: research already published algorithms, develop a layer to homogenize data, and test all developed algorithms.</td>
                 <td></td>
             </tr>
+    </tbody>
+</table>
 
-        </tbody>
-    </table>
-    <h2>IoT</h2>
-    <table style='border:solid'>
-        <thead>
-            <tr>
-                <th>Title</th>
-                <th>Description</th>
-                <th>Partners</th>
-            </tr>
-        </thead>
-        <tbody>
+<h2>IoT</h2>
+<table style='border:solid'>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Partners</th>
+        </tr>
+    </thead>
+    <tbody>
             <tr>
                 <td>Homeassistant data collector</td>
                 <td>Obtain data from homeassistant. Collect status of sensors  and save them so that it can be later possible to perform human-activity-recognition tasks.</td>
@@ -152,19 +151,19 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
                 <td>This thesis should test the limits of on the thesis Edge Impulse specifically for on the thesis ESP32 devices.- network complexity- model size- comparison with custom models</td>
                 <td></td>
             </tr>
+    </tbody>
+</table>
 
-        </tbody>
-    </table>
-    <h2>Crowdsensing</h2>
-    <table style='border:solid'>
-        <thead>
-            <tr>
-                <th>Title</th>
-                <th>Description</th>
-                <th>Partners</th>
-            </tr>
-        </thead>
-        <tbody>
+<h2>Crowdsensing</h2>
+<table style='border:solid'>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Partners</th>
+        </tr>
+    </thead>
+    <tbody>
             <tr>
                 <td>application</td>
                 <td>Need an omnicomprehensive application to collect data from smartphones. This ideally should go into the backend developed as part of on the thesis Crowdsensing - backend and frontend. Need to check with comitato etico beforehand.</td>
@@ -185,23 +184,25 @@ I am always happy to work with Bachelor and Master students, and I am glad that 
                 <td>Test how different devices perceive the same data. Here the objective is to develop a simple application which collects data and records it, and compare it against different devices.The thesis should also analyse the state of the art to find which data is sensed by crowdsensing applications and categorize it, so that it is possible to compare devices against useful data.</td>
                 <td></td>
             </tr>
+    </tbody>
+</table>
 
-        </tbody>
-    </table>
-    <h2>Industry</h2>
-    <table style='border:solid'>
-        <thead>
-            <tr>
-                <th>Title</th>
-                <th>Description</th>
-                <th>Partners</th>
-            </tr>
-        </thead>
-        <tbody>
+<h2>Industry</h2>
+<table style='border:solid'>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Partners</th>
+        </tr>
+    </thead>
+    <tbody>
             <tr>
                 <td>Packets on pallet stability</td>
                 <td>The goal of this internship is to analyze a vast dataset of issues related to pallets building, to find patterns about issues related to packets and boxes falling from them.</td>
                 <td>Kosme SrL</td>
             </tr>
-        </tbody>
+    </tbody>
+</table>
+
 </table>
