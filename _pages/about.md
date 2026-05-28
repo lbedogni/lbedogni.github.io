@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia, Italy
+subtitle: Department of Sciences and Methods for Engineering, University of Modena and Reggio Emilia, Italy
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Physics, Informatics and Mathematics</p>
-    <p>Via G. Campi 213/B</p>
-    <p>40125 Modena, Italy</p>
+    <p>Department of Sciences and Methods for Engineering</p>
+    <p>Via Amendola 2</p>
+    <p>42122 Reggio Emilia, Italy</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
