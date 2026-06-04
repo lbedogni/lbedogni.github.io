@@ -13,7 +13,7 @@ profile:
     <p>Via Amendola 2</p>
     <p>42122 Reggio Emilia, Italy</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 news: true
 
@@ -41,15 +41,14 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
 
 Luca Bedogni is Associate Professor at the University of Modena and Reggio Emilia, Italy.
 
-He received his Bachelor Degree and Master Degree (Summa Cum Laude) in Computer Science from the University of Bologna, Italy. His Master thesis developed a MAC Protocol for Vehicular Ad Hoc Networks (VANETs).
-In 2015, he received the PhD degree from the University of Bologna, with the additional title of “Doctor Europeaus”.
+His research interests include:
+
+*   **Internet of Things (IoT):** Architectures for heterogeneous devices and data management.
+*   **Edge-Cloud Continuum & Fluid Computing:** Strategies for distributing computation and intelligence.
+*   **Digital Twins:** Modeling and managing human and machine entities.
+*   **Split Computing & Privacy-Aware AI:** Enabling intelligent inference on resource-constrained devices.
+*   **Mobile Computing:** Context-aware systems and performance analysis.
+
+He received his Bachelor Degree and Master Degree (Summa Cum Laude) in Computer Science from the University of Bologna, Italy. In 2015, he received the PhD degree from the University of Bologna, with the additional title of “Doctor Europeaus”.
 
 In 2013, he was a visiting researcher at the RWTH Aachen university, working under the supervision of [Prof. Petri Mähönen](https://www.inets.rwth-aachen.de/). In 2017, he was a visiting scholar at the University of California, Irvine, working with [Prof. Marco Levorato](https://iasl.ics.uci.edu/).
-
-He won the best paper award at MOBIWAC 2012 for his paper “DySCO: A DYnamic Spectrum and COntention Control Framework for Enhanced Broadcast Communication in Vehicular Networks”.
-
-He won the best paper award at Med-Hoc-Net 2013 for his paper “Re-estabilishing Network Connectivity in Post-Disaster Scenarios Through Mobile Cognitive Radio Networks”.
-
-He won the best paper award at CANDAR 2014 for his paper ““A Collision-Free Contention Protocol Based on Pulse/Tone Signals”.
-
-His current research interest span from the Internet of Things for heterogeneous devices, to context aware computing. For details, please refer to the research page.

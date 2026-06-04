@@ -8,7 +8,7 @@ middle_name:
 last_name: Bedogni
 email: luca.bedogni@unimore.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Luca Bedogni is an Associate Professor at the University of Modena and Reggio Emilia. His research focuses on the Internet of Things (IoT), Edge-Cloud Continuum, Digital Twins, and Split Computing for intelligent, privacy-aware applications.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
