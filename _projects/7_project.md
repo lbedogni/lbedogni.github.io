@@ -1,14 +1,17 @@
----
-layout: page
-title: IoT and M2M
-permalink: /iot
-description: IoT and M2M Communication
-img:
-importance: 7
-category: research
----
+# Activity Recognition
+*Date: 2022–2023*
 
-The core of his PhD thesis targets the utilization of TV White Space spectrum for M2M communications in indoor scenarios. Particular applications examples for this technology are the smart grid paradigm, the internet of things (IoT), and home appliances such as video streaming over the house. He uses and develops strategies and methods for Cognitive Wireless Networks to build networks of cooperating devices that operate in this challenging yet powerful spectrum band. More details can be found in the following publications:
+## Summary
+We develop mobile applications that use smartphone sensors—accelerometer, gyroscope, and GPS—to deliver context‑aware computing. Our approach enables real‑time detection of user motion types, improving app responsiveness and personalization.
 
-* Luca Bedogni, Marco Di Felice, Fabio Malabocchia, Luciano Bononi, “Indoor Communication over TV Gray Spaces based on Spectrum Measurements”, to appear on Proceedings of WCNC 2014, Istanbul, Turkey, June 6th-9th 2014
-* Luca Bedogni, Angelo Trotta, Marco Di Felice, Luciano Bononi, “Machine-to-Machine Communication over TV White Spaces for Smart Metering Applications”, on Proceedings of ICCCN’13 , Nassau, Bahamas, 2013
+## Key Contributions
+- Implemented motion detection using accelerometer, gyroscope, and GPS data.
+- Achieved accurate classification of user activities (e.g., train vs. car) for enhanced context awareness.
+- Presented findings at the IFIP Wireless Days 2012 conference.
+
+## Visuals
+![Activity recognition sensor data]({{ site.baseurl }}/assets/img/activity-recognition.png){: .center }
+
+## Resources
+- **Publication**: "By Train or By Car? Detecting the User’s Motion Type through Smartphone Sensors Data" (IFIP Wireless Days 2012)  
+- **Code**: [GitHub Repository] (placeholder link)
